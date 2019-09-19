@@ -1,4 +1,4 @@
-# HAnalytics OCR
+# Locus Load Testing
 
 > This repo contains locus load testing files for the project HAnalytics.
 
