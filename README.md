@@ -15,3 +15,9 @@ $ pip install locustio
 ```shell
 $ locust -f <Python file name> -H <Host URL>
 ```
+
+Or
+
+```shell
+$ locust -f <Python file name> -H <Host URL> -c <Number of Users> -r <Hatch Rate> --no-web -t 60s
+```
